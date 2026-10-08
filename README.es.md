@@ -4,7 +4,7 @@ Idiomas: [English](README.md) | **Español**
 
 # Password Generator
 
-**Una aplicación de escritorio para crear contraseñas a tu medida.**
+**Una aplicación de escritorio para crear contraseñas personalizadas.**
 
 Elige los tipos de caracteres, indica la longitud y genera una contraseña. También puedes partir de una palabra clave y copiar el resultado al portapapeles.
 
