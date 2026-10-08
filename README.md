@@ -29,12 +29,15 @@ Choose character types, set a length, and generate a password. You can also star
 
 ## Technologies
 
-| Java 21 | JavaFX 21 |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java logo" width="72" height="72"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX logo" width="150"> |
-| Application logic | Desktop interface built with FXML and CSS |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="56" height="56" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" width="132" height="56" alt="JavaFX" title="JavaFX" />
+</p>
 
-The project uses **Maven** to manage dependencies and **`jpackage`** to bundle the Windows launcher with its runtime. Logo sources: [Devicon](https://github.com/devicons/devicon) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JavaFX_text_logo.png).
+Java 21 · JavaFX 21 · Maven · FXML · CSS · jpackage
+
+The project uses **Maven** to manage dependencies and **`jpackage`** to bundle the Windows launcher with its runtime.
 
 ## Download and run on Windows
 

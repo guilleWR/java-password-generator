@@ -29,12 +29,15 @@ Elige los tipos de caracteres, indica la longitud y genera una contraseña. Tamb
 
 ## Tecnologías
 
-| Java 21 | JavaFX 21 |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Logo de Java" width="72" height="72"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="Logo de JavaFX" width="150"> |
-| Lógica de la aplicación | Interfaz de escritorio creada con FXML y CSS |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="56" height="56" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" width="132" height="56" alt="JavaFX" title="JavaFX" />
+</p>
 
-El proyecto usa **Maven** para gestionar las dependencias y **`jpackage`** para empaquetar el ejecutable de Windows con su propio runtime. Fuentes de los logotipos: [Devicon](https://github.com/devicons/devicon) y [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JavaFX_text_logo.png).
+Java 21 · JavaFX 21 · Maven · FXML · CSS · jpackage
+
+El proyecto usa **Maven** para gestionar las dependencias y **`jpackage`** para empaquetar el ejecutable de Windows con su propio runtime.
 
 ## Descargar y ejecutar en Windows
 
